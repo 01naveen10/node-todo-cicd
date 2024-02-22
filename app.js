@@ -20,7 +20,7 @@ app.use(methodOverride(function (req, res) {
     }
 }));
 
-
+//list to add items which will be added
 let todolist = [];
 
 /* The to do list and the form are displayed */
